@@ -1,4 +1,4 @@
-![logo](https://github.com/NajukKumariChourasia/Najuk-Chourasia/blob/main/GitHub%20Banner%20.png)
+
 <h1 align="center">Hi 👋, I'm Najuk Chourasia</h1>
 <h3 align="center">Aspiring computational physicist From India</h3>
 
